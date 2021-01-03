@@ -1,5 +1,4 @@
 //Trial 1:
-//Trial 1:
 //We've got some basic info about Karen's home
 //Debug the type of data provided
 //Return the types concatenated in a single variable
